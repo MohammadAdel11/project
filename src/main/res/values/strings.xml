@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">proj</string>
-
+    <string name="app_name">ListViews</string>
+    <string-array name="optian">
+        <item>Describtion</item>
+        <item>phone</item>
+        <item>accomadtion</item>
+        <item>services</item>
+        <item>facilities</item>
+    </string-array>
 </resources>
